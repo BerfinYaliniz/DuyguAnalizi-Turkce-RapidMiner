@@ -1,5 +1,7 @@
 # DuyguAnalizi-Turkce-RapidMiner
 Türkçe veriler için duygu analizi modeli
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![duygu](https://user-images.githubusercontent.com/56268192/188899308-5dfce531-2753-4df9-a7a6-b5311b5ad502.png)
 
 
